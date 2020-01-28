@@ -1,11 +1,23 @@
 {
-  "posts": [
+  "usesrList": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "ganesh",
+      "age": 123
+    },
+    {
+      "id": 2,
+      "name": "ganesh1",
+      "age": 1234
+    },
+    {
+      "id": 5,
+      "name": "ganesh5",
+      "age": 1235
     }
   ],
   "profile": {
-    "name": "typicode"
+    "id":1,
+    "name": "ganesh"
   }
 }
