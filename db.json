@@ -1,1 +1,11 @@
-[{"id":1,"name":"ganesh","age":23},{"id":2,"name":"ganesh2","age":33},{"id":3,"name":"ganesh3","age":43},{"id":4,"name":"ganesh4","age":53}]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
