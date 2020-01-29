@@ -1,23 +1,32 @@
 {
-  "usesrList": [
+  "userList": [
     {
-      "id": 1,
-      "name": "ganesh",
-      "age": 123
+      "id": 3001,
+      "firstName": "User1",
+      "lastName": "A",
+      "email": "user1@gmail.com",
+      "phoneNumber": "9876543210"
     },
     {
-      "id": 2,
-      "name": "ganesh1",
-      "age": 1234
+      "id": 3002,
+      "firstName": "User2",
+      "lastName": "K",
+      "email": "user2@gmail.com",
+      "phoneNumber": "9089786756"
     },
     {
-      "id": 5,
-      "name": "ganesh5",
-      "age": 1235
+      "id": 3003,
+      "firstName": "User3",
+      "lastName": "M",
+      "email": "user3@gmail.com",
+      "phoneNumber": "9876543210"
+    },
+    {
+      "id": 3004,
+      "firstName": "User4",
+      "lastName": "L",
+      "email": "user4@gmail.com",
+      "phoneNumber": "1234567890"
     }
-  ],
-  "profile": {
-    "id":1,
-    "name": "ganesh"
-  }
+  ]
 }
